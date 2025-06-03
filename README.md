@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Faustino and I'm a Full Stack from Brazil</h1>
+<h1 align="left">Hi 👋! My name is Faustino and I'm a Full Stack Developer from Brazil</h1>
 
 ###
 
